@@ -7,3 +7,5 @@
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.4.110:3000/
+5:26:14 PM [vite] ✨ new dependencies optimized: lucide-react, framer-motion
+5:26:14 PM [vite] ✨ optimized dependencies changed. reloading
